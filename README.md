@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chin14
-- 👀 I’m interested in JavaScript,Css & HTML
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in React,Node,Firebase,JavaScript,Css & HTML
+- 🌱 I’m currently learning all there is to learn 
 
 
 <!---
